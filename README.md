@@ -6,7 +6,7 @@
 
 Backend: https://github.com/dbarretobrito/FoodExplorerBackend
 
-Aplicação funcionando: https://foodexplorerdelivery.netlify.app/
+Aplicação funcionando: https://foodexplorerdelivery.vercel.app/
 
 ## 📄 Sobre:
 Aplicação web de um restaurante delivery. Após se cadastrar o usuário poderá fazer pedidos e acompanhá-los. Ele também poderá personalizar seu de perfil (alterando seu avatar, nome, email e senha), filtrar seus itens favoritos, fazer busca de pratos e entrar em contato com o restaurante. No carrinho é possível escolher entre duas formas de pagamento (Pix ou cartão). Já o administrador poderá criar, editar e deletar os pratos. Caberá ao administrador definir o status do pedido, que será atualizado também na tela dos usuários. O projeto é responsivo a variados tamanhos de tela.
@@ -54,7 +54,7 @@ usuário: admin@email.com
 senha: 123456
 ```
 
-- O Backend foi hospedado no Render e o Frontend foi hospedado no Netlify.
+- O Backend foi hospedado no Render e o Frontend foi hospedado no Vercel.
 
 ___
 
